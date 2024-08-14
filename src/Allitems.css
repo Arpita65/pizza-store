@@ -1,0 +1,59 @@
+/* AllItems.css */
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
+  
+  .card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-body {
+    padding: 15px;
+  }
+  
+  .card-title {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .card-text {
+    font-size: 1em;
+    color: #555;
+  }
+  
+  .order-button {
+    background-color: #ff5733; /* Bright orange color */
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    margin-top: 10px;
+  }
+  
+  .order-button:hover {
+    background-color: #c70039; /* Darker red-orange on hover */
+    transform: scale(1.05); /* Slightly enlarge button on hover */
+  }
+  
+  .order-button:focus {
+    outline: none;
+  }
+  

@@ -1,0 +1,82 @@
+{
+  "home": [
+    {
+      "id": "1",
+      "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Margherita Pizza",
+      "price": 150,
+      "description": "A classic pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves."
+    },
+    {
+      "id": "2",
+      "image": "https://images.pexels.com/photos/8471699/pexels-photo-8471699.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Veggie Delight",
+      "price": 180,
+      "description": "Loaded with fresh vegetables including bell peppers, onions, mushrooms, olives, and tomatoes, all topped with mozzarella cheese."
+    },
+    {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Four Cheese Pizza",
+      "price": 200,
+      "description": "Featuring a blend of mozzarella, cheddar, parmesan, and gorgonzola cheeses for a rich and creamy flavor."
+    },
+    {
+      "id": "4",
+      "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Spinach and Feta Pizza",
+      "price": 220,
+      "description": "A delightful pizza topped with fresh spinach, crumbled feta cheese, and mozzarella."
+    },
+    {
+      "id": "5",
+      "image": "https://images.pexels.com/photos/5903262/pexels-photo-5903262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Mushroom Pizza",
+      "price": 190,
+      "description": "A savory pizza topped with sautéed mushrooms, mozzarella cheese, and fresh herbs."
+    },
+    {
+      "id": "6",
+      "image": "https://images.pexels.com/photos/5903315/pexels-photo-5903315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Broccoli and Cheddar Pizza",
+      "price": 210,
+      "description": "A healthy pizza option topped with fresh broccoli florets, cheddar cheese, and mozzarella."
+    },
+    {
+      "id": "7",
+      "image": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Artichoke Pizza",
+      "price": 230,
+      "description": "Topped with marinated artichokes, sun-dried tomatoes, and a blend of mozzarella and parmesan cheeses."
+    },
+    {
+      "id": "8",
+      "image": "https://images.pexels.com/photos/8471699/pexels-photo-8471699.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Eggplant Parmesan Pizza",
+      "price": 250,
+      "description": "A delicious pizza topped with breaded eggplant slices, marinara sauce, and mozzarella cheese."
+    },
+    {
+      "id": "9",
+      "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Zucchini and Goat Cheese Pizza",
+      "price": 240,
+      "description": "Topped with thinly sliced zucchini, crumbled goat cheese, and mozzarella, finished with a drizzle of olive oil."
+    }
+  ],
+  "contact": [
+    {
+      "id": "063a",
+      "name": "Arr",
+      "email": "isha23@gmail.com",
+      "message": "hjvukcgjnvbn"
+    }
+  ],
+  "add-item": [
+
+  ],
+
+  "update-item": [
+
+  ]
+}
